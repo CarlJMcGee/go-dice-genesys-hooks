@@ -1,7 +1,7 @@
 {
   "name": "go-dice-genesys-hooks",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hooks for Go Dice to be used as Fantasy Flight Genesys TTRPG dice.",
   "exports": "./index.js",
   "repository": {
